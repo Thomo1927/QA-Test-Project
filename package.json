@@ -1,0 +1,10 @@
+{
+    "name": "protractor-project",
+    "scripts": {},
+    "dependencies": {
+        "@angular/cli": "^7.0.6",
+        "jasmine-spec-reporter": "^4.2.1",
+        "protractor": "^5.4.1",
+        "webdriver-manager": "^12.1.0"
+    }
+}
